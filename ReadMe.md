@@ -8,3 +8,4 @@
 
 1. <a href="https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/">Day 1</a>
 2. <a href="https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/">Day 2</a>
+3. <a href="https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/">Day 3</a>

@@ -1,7 +1,5 @@
 # The 7 steps to build a bubble sheet scanner and grader
 
-# The goal of this blog post is to build a bubble sheet scanner and test grader using Python and OpenCV.
-
 ### To accomplish this, our implementation will need to satisfy the following 7 steps:<br><br>
 
 Step #1: Detect the exam in an image.<br>

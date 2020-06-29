@@ -10,3 +10,4 @@
 2. <a href="https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/">Day 2</a>
 3. <a href="https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/">Day 3</a>
 4. <a href="https://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/">Day 4</a>
+5. <a href="https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/">Day 5</a>
